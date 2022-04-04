@@ -19,7 +19,6 @@ I am **Jitendra Chandani** presently working as **Technical Architect** in **[i9
 <img align="left" alt="Terraform" width="26px" src="http://simpleicons.org/icons/terraform.svg" />
 <img align="left" alt="AWS" width="26px" src="http://simpleicons.org/icons/amazonaws.svg" />
 <img align="left" alt="ELK" width="26px" src="http://simpleicons.org/icons/elasticstack.svg" />
-<img align="left" alt="SaltStack" width="26px" src="http://simpleicons.org/icons/saltstack.svg" />
 <img align="left" alt="Ansible" width="26px" src="http://simpleicons.org/icons/ansible.svg" />
 <img align="left" alt="SonarQube" width="26px" src="http://simpleicons.org/icons/sonarqube.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />
@@ -33,9 +32,9 @@ I am **Jitendra Chandani** presently working as **Technical Architect** in **[i9
 
 ### Github Stats:
 
-<img align="left" alt="Jitendra's Github Stats" src="https://github-readme-stats-jchandani.vercel.app/api?username=jchandani&count_private=true&show_icons=true&hide=prs&include_all_commits=true" />
+<img align="left" alt="Jitendra's Github Stats" src="https://github-readme-stats-jchandani.vercel.app/api?username=jchandani&count_private=true&show_icons=true&hide=prs&include_all_commits=true&theme=radical" />
 
-[![Top Langs](https://github-readme-stats-jchandani.vercel.app/api/top-langs/?username=jchandani&count_private=true&include_all_commits=true)](https://github.com/JitendraChandani/github-readme-stats)
+[![Top Langs](https://github-readme-stats-jchandani.vercel.app/api/top-langs/?username=JitendraChandani&count_private=true&include_all_commits=true&theme=radical)](https://github.com/JitendraChandani/github-readme-stats)
 
 ### Find me:
 
