@@ -6,7 +6,7 @@ I am **Jitendra Chandani** presently working as **Technical Architect** in **[i9
 <br />
 
 ### Skills:
-<img align="left" alt="Java/J2EE" width="26px" src="http://simpleicons.org/icons/java.svg" />
+<img align="left" alt="Java/J2EE" width="26px" src="https://simpleicons.org/icons/openjdk.svg" />
 <img align="left" alt="PHP" width="26px" src="http://simpleicons.org/icons/php.svg" />
 <img align="left" alt="Ruby" width="26px" src="http://simpleicons.org/icons/rubyonrails.svg" />
 <img align="left" alt="Eclipse" width="26px" src="http://simpleicons.org/icons/eclipseide.svg" />
@@ -17,14 +17,15 @@ I am **Jitendra Chandani** presently working as **Technical Architect** in **[i9
 <img align="left" alt="Docker" width="26px" src="http://simpleicons.org/icons/docker.svg" />
 <img align="left" alt="Kubernetes" width="26px" src="http://simpleicons.org/icons/kubernetes.svg" />
 <img align="left" alt="Terraform" width="26px" src="http://simpleicons.org/icons/terraform.svg" />
-<img align="left" alt="AWS" width="26px" src="http://simpleicons.org/icons/amazonaws.svg" />
+<img align="left" alt="AWS" width="26px" src="http://simpleicons.org/icons/amazonwebservices.svg" />
 <img align="left" alt="ELK" width="26px" src="http://simpleicons.org/icons/elasticstack.svg" />
 <img align="left" alt="Ansible" width="26px" src="http://simpleicons.org/icons/ansible.svg" />
 <img align="left" alt="SonarQube" width="26px" src="http://simpleicons.org/icons/sonarqube.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />
 <img align="left" alt="Jenkins" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/jenkins-5-569553.png" />
 <img align="left" alt="Composer" width="26px" src="http://simpleicons.org/icons/composer.svg" />
-
+<img align="left" alt="Composer" width="26px" src="http://simpleicons.org/icons/langchain.svg" />
+<img align="left" alt="Composer" width="26px" src="http://simpleicons.org/icons/python.svg" />
 
 
 
