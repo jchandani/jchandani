@@ -42,7 +42,7 @@ I am **Jitendra Chandani** presently working as **Technical Architect** in **[i9
 ### Find me:
 
 [<img align="left" alt="Jitendra Chandani | Stack Overflow" width="22px" src="http://simpleicons.org/icons/stackoverflow.svg" />][stack]
-[<img align="left" alt="Jitendra Chandani | LinkedIn" width="22px" src="http://simpleicons.org/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jitendra Chandani | LinkedIn" width="22px" src="https://img.icons8.com/?size=100&id=118979&format=png&color=000000" />][linkedin]
 
 
 [aws]: https://aws.amazon.com/
