@@ -13,7 +13,7 @@ I am **Jitendra Chandani** presently working as **Technical Architect** in **[i9
 <img align="left" alt="Apache Kafka" width="26px" src="http://simpleicons.org/icons/apachekafka.svg" />
 <img align="left" alt="Gradle" width="26px" src="http://simpleicons.org/icons/gradle.svg" />
 <img align="left" alt="Maven" width="26px" src="http://simpleicons.org/icons/apachemaven.svg" />
-<img align="left" alt="Magento" width="26px" src="http://simpleicons.org/icons/magento.svg" />
+<img align="left" alt="Magento" width="26px" src="https://img.icons8.com/?size=100&id=wO7uLQ2bXGP-&format=png&color=000000" />
 <img align="left" alt="Docker" width="26px" src="http://simpleicons.org/icons/docker.svg" />
 <img align="left" alt="Kubernetes" width="26px" src="http://simpleicons.org/icons/kubernetes.svg" />
 <img align="left" alt="Terraform" width="26px" src="http://simpleicons.org/icons/terraform.svg" />
@@ -23,9 +23,9 @@ I am **Jitendra Chandani** presently working as **Technical Architect** in **[i9
 <img align="left" alt="SonarQube" width="26px" src="http://simpleicons.org/icons/sonarqube.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />
 <img align="left" alt="Jenkins" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/jenkins-5-569553.png" />
-<img align="left" alt="Composer" width="26px" src="http://simpleicons.org/icons/composer.svg" />
-<img align="left" alt="Composer" width="26px" src="http://simpleicons.org/icons/langchain.svg" />
-<img align="left" alt="Composer" width="26px" src="http://simpleicons.org/icons/python.svg" />
+<img align="left" alt="Langflow" width="26px" src="http://simpleicons.org/icons/langflow.svg" />
+<img align="left" alt="Langchain" width="26px" src="http://simpleicons.org/icons/langchain.svg" />
+<img align="left" alt="Python" width="26px" src="http://simpleicons.org/icons/python.svg" />
 
 
 
